@@ -1,0 +1,19 @@
+/* src/App.css */
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+#video-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+video {
+  border-radius: 10px;
+}
+
+button {
+  margin-top: 10px;
+}
